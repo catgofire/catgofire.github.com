@@ -1,50 +1,35 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
-   "http://www.w3.org/TR/html4/strict.dtd">
+---
+layout: default
+title: Catgofire.com
+---
 
-<html>
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Catgofire.com</title>
-    <link rel="stylesheet" href="assets/css/blueprint/screen.css" type="text/css" media="screen, projection">
-    <link rel="stylesheet" href="assets/css/blueprint/print.css" type="text/css" media="print">
-    <!--[if IE]><link rel="stylesheet" href="assets/css/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
-    <link rel="stylesheet" href="assets/css/main.css" type="text/css" media="screen, projection">
-  </head>
-  
-  <body>
-    <div class="container">
-      <h1>Catgofire.com</h1>
-      <hr>
-			
-			<div class="span-4 colborder">
-				<h4>Friends</h4>
-				<ul class="blank">
-					<li><a href="http://aidanzanders.com/">Aidan</a></li>
-					<li><a href="http://www.ashsmash.com/">Ash</a></li>
-					<li><a href="http://www.jtroll.com/">J.T.</a></li>
-					<li><a href="http://www.kristenl.com/">Kristen</a></li>
-					<li><a href="http://mroch.com/">Marshall</a></li>
-					<li><a href="http://maxj.net/">Max</a></li>
-					<li><a href="http://www.andrew.cmu.edu/user/rcyang/">Renee</a></li>
-				</ul>
-			</div>
-			
-			<div class="span-18 prepend-1 last">
-      	<h3>Hey look, a page that doesn't say "Service Temporarily Unavailable"!</h3>
-				<p>
-					While I attempt to get some of my work gathered on one website, take a look at my friends' sites to the left.
-				</p>
-				<p>
-					Random photography samples: <a href="http://catgofire.deviantart.com">Deviantart</a> and <a href="http://flickr.com/catgofire">Flickr</a>
-				</p>
-			</div>
-			
-			<div class="span-24 last right">
-				<hr>
-				<span class="right">
-					Justin Brown &copy;2003&ndash;2012 (when the world ends)
-				</span>
-			</div>
-    </div>
-  </body>
-</html>
+{% assign friends = ["aidan, blah", "ash", "blahhh"] %}
+
+<div class="span-4 colborder">
+	<h4>Friends</h4>
+	<ul>
+		<li>frands</li>
+		{% for friend in friends %}
+			<li>feefi {{ friend }} fofum</li>
+		{% endfor %}
+	</ul>
+	<ul class="blank">
+		<li><a href="http://aidanzanders.com/">Aidan</a></li>
+		<li><a href="http://www.ashsmash.com/">Ash</a></li>
+		<li><a href="http://www.jtroll.com/">J.T.</a></li>
+		<li><a href="http://www.kristenl.com/">Kristen</a></li>
+		<li><a href="http://mroch.com/">Marshall</a></li>
+		<li><a href="http://maxj.net/">Max</a></li>
+		<li><a href="http://www.andrew.cmu.edu/user/rcyang/">Renee</a></li>
+	</ul>
+</div>
+
+<div class="span-18 prepend-1 last">
+	<h3>Hey look, a page that doesn't say "Service Temporarily Unavailable"!</h3>
+	<p>
+		While I attempt to get some of my work gathered on one website, take a look at my friends' sites to the left.
+	</p>
+	<p>
+		Random photography samples: <a href="http://catgofire.deviantart.com">Deviantart</a> and <a href="http://flickr.com/catgofire">Flickr</a>
+	</p>
+</div>
