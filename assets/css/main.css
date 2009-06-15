@@ -13,3 +13,26 @@ h1, h3 {
 ul.blank {
   list-style-type: none;
 }
+
+a:active,
+a:focus
+{
+  outline:0
+}
+
+#sidebar a {
+  display: block;
+  text-decoration: none;
+  color: black;
+  /*background-color: #f5f5f5;*/
+  margin: 0px 0px 2px 0px;
+  padding-left: 5px;
+  height: 20px;
+  /*background-image: url(/assets/images/right-rounded-white.png);*/
+  background-position: right;
+  background-repeat: no-repeat;
+}
+#sidebar a:hover {
+  color: white;
+  background-color: #49e;
+}

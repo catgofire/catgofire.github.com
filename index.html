@@ -1,35 +1,33 @@
 ---
 layout: default
 title: Catgofire.com
+friends:
+  - name: Aidan
+    site: http://aidanzanders.com/
+  - name: Ash
+    site: http://www.ashsmash.com/
+  - name: J.T.
+    site: http://www.jtroll.com/
+  - name: Kristen
+    site: http://www.kristenl.com/
+  - name: Marshall
+    site: http://mroch.com/
+  - name: Max
+    site: http://maxj.net/
+  - name: Renée
+    site: http://www.andrew.cmu.edu/user/rcyang/
 ---
 
-{% assign friends = ["aidan, blah", "ash", "blahhh"] %}
-
-<div class="span-4 colborder">
-	<h4>Friends</h4>
-	<ul>
-		<li>frands</li>
-		{% for friend in friends %}
-			<li>feefi {{ friend }} fofum</li>
-		{% endfor %}
-	</ul>
-	<ul class="blank">
-		<li><a href="http://aidanzanders.com/">Aidan</a></li>
-		<li><a href="http://www.ashsmash.com/">Ash</a></li>
-		<li><a href="http://www.jtroll.com/">J.T.</a></li>
-		<li><a href="http://www.kristenl.com/">Kristen</a></li>
-		<li><a href="http://mroch.com/">Marshall</a></li>
-		<li><a href="http://maxj.net/">Max</a></li>
-		<li><a href="http://www.andrew.cmu.edu/user/rcyang/">Renee</a></li>
-	</ul>
+<div class="span-4 colborder" id="sidebar">
+  {% include sidebar_content.html %}
 </div>
 
 <div class="span-18 prepend-1 last">
-	<h3>Hey look, a page that doesn't say "Service Temporarily Unavailable"!</h3>
-	<p>
-		While I attempt to get some of my work gathered on one website, take a look at my friends' sites to the left.
-	</p>
-	<p>
-		Random photography samples: <a href="http://catgofire.deviantart.com">Deviantart</a> and <a href="http://flickr.com/catgofire">Flickr</a>
-	</p>
+  <h3>Hey look, a page that doesn't say "Service Temporarily Unavailable"!</h3>
+  <p>
+    While I attempt to get some of my work gathered on one website, take a look at my friends' sites to the left.
+  </p>
+  <p>
+    Random photography samples: <a href="http://catgofire.deviantart.com">Deviantart</a> and <a href="http://flickr.com/catgofire">Flickr</a>
+  </p>
 </div>
