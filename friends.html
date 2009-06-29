@@ -20,8 +20,10 @@ friends:
 
 <h1>[some] Friends [with websites]</h1>
 <h3>Ordered by squishiness, which coincidentally looks alphabetical</h3>
-<ul class="blank" style="font-size:16px;">
-  {% for friend in page.friends %}
-  <li><a href="{{ friend.site }}">{{ friend.name }}</a></li>
-  {% endfor %}
-</ul>
+<div style="margin:0 auto;width:120px;text-align:center;">
+  <ul class="blank" style="font-size:16px;">
+    {% for friend in page.friends %}
+    <li><a href="{{ friend.site }}">{{ friend.name }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

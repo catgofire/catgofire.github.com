@@ -22,12 +22,10 @@ h3, h4, h5, h6 { color: 778; }
 }
 
 .left-block {
-  /*background-color: #0f0;*/
   float: left;
   height: 375px;
   padding-top: 50px;
   width: 600px;
-  text-align: center;
   vertical-align: center;
 }
 
