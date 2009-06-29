@@ -1,23 +1,81 @@
 body {
-  background-color:#fdfdfd;
+  color: #778;
+  background-color:#000;
+  font-family:Verdana, Arial, sans-serif;
 }
 
-h1, h3 {
-  color: #49e;
+a, a:hover, a:active {
+  color: #fff;
+  text-decoration: none;
+}
+a:hover { color: #01b4ff; }
+a:active { color: #fff; }
+
+.container {
+  background-color: #000;
+  width: 950px;
+  margin: 20px auto;
 }
 
-.right{
-  text-align:right;
+.left-block {
+  /*background-color: #0f0;*/
+  float: left;
+  height: 300px;
+  padding-top: 125px;
+  width: 600px;
+  text-align: center;
+  vertical-align: center;
 }
 
-ul.blank {
+.right-block {
+  float: left;
+  width: 350px;
+  padding-top: 100px;
+}
+
+#logo {
+  margin: 0 auto;
+  background-image: url(/assets/images/logo.png);
+  width: 465px;
+  height: 163px;
+}
+
+#sub-logo {
+  text-align: right;
+  margin-right: 70px;
+  color: #d50e0e;
+  font-size: 20px;
+  text-transform: lowercase;
+}
+
+.right-block ul {
+  width: 175px;
   list-style-type: none;
+  font-size: 30px;
+  text-align: right;
 }
+
+.unavailable {
+  text-decoration: line-through;
+}
+
+h1, h3 { color: #49e; }
+
+.right{ text-align:right; }
+
+ul.blank { list-style-type: none; }
 
 a:active,
 a:focus
 {
   outline:0
+}
+
+#footer {
+  clear: both;
+  width: 825px;
+  margin-right: 125px;
+  text-align: right;
 }
 
 #sidebar a {
