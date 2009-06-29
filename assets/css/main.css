@@ -4,18 +4,16 @@ body {
   font-family:Verdana, Arial, sans-serif;
 }
 
-a, a:hover, a:active {
-  color: #fff;
-  text-decoration: none;
-}
-a:hover { color: #01b4ff; }
-a:active { color: #fff; }
+a, a:hover, a:active, a:focus { text-decoration: none; }
+a { color: #fff; }
+a:hover, a:active, a:focus { color: #01b4ff; }
 
 h1 { color: #d50e0e; }
 h2 { color: #fff; }
 h3, h4, h5, h6 { color: 778; }
 
-.highlight { color: #d50e0e; }
+.whitelink { color: #fff; }
+.highlight-link { color: #01b4ff; }
 
 .container {
   background-color: #000;

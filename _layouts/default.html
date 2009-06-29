@@ -4,13 +4,22 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>EvilGen!us{% if page.title %} — {{ page.title | capitalize }}{% endif %}</title>
+    <title>EvilGen!us{% if page.title != "home" %} — {{ page.title | capitalize }}{% endif %}</title>
 		<meta name="author" content="Justin Brown" />
 
     <link rel="stylesheet" href="assets/css/blueprint/screen.css" type="text/css" media="screen, projection" />
     <!--[if IE]><link rel="stylesheet" href="assets/css/blueprint/ie.css" type="text/css" media="screen, projection" /><![endif]-->
     <link rel="stylesheet" href="assets/css/main.css" type="text/css" media="screen, projection" />
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        page_title = "{{ page.title }}";
+        if(page_title) {
+          $("#"+page_title).find('a').switchClass('whitelink','highlight-link',200);
+        }
+      });
+    </script>
   </head>
 
   <body>
@@ -22,25 +31,25 @@
 
       <div class="right-block">
         <ul>
-          <li>
+          <li id="about">
             <a href="about.html">About</a>
           </li>
-          <li>
+          <li id="contact">
             <a href="mailto:catgofire@gmail.com">Contact</a>
           </li>
-          <li class="unavailable">
+          <li id="resume" class="unavailable">
             Resum&eacute;
           </li>
-          <li class="unavailable">
+          <li id="blog" class="unavailable">
             Blog
           </li>
-          <li class="unavailable">
+          <li id="photos" class="unavailable">
             Photos
           </li>
-          <li>
+          <li id="friends">
             <a href="friends.html">Friends</a>
           </li>
-          <li>
+          <li id="home">
             <a href="/">Home</a>
           </li>
         </ul>
