@@ -1,0 +1,26 @@
+---
+layout: default
+title: EvilGen!us — Friends
+friends:
+  - name: Aidan
+    site: http://aidanzanders.com/
+  - name: Ash
+    site: http://www.ashsmash.com/
+  - name: J.T.
+    site: http://www.jtroll.com/
+  - name: Kristen
+    site: http://www.kristenl.com/
+  - name: Marshall
+    site: http://mroch.com/
+  - name: Max
+    site: http://maxj.net/
+  - name: Ren&eacute;e
+    site: http://www.andrew.cmu.edu/user/rcyang/
+---
+
+<h1>Friends [with websites]</h1>
+<ul class="blank">
+  {% for friend in page.friends %}
+  <li><a href="{{ friend.site }}">{{ friend.name }}</a></li>
+  {% endfor %}
+</ul>

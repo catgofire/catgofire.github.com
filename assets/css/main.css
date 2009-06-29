@@ -11,6 +11,10 @@ a, a:hover, a:active {
 a:hover { color: #01b4ff; }
 a:active { color: #fff; }
 
+h1, h2, h3, h4, h5, h6 { color: #d50e0e; }
+
+.highlight { color: #d50e0e; }
+
 .container {
   background-color: #000;
   width: 950px;
@@ -20,8 +24,8 @@ a:active { color: #fff; }
 .left-block {
   /*background-color: #0f0;*/
   float: left;
-  height: 300px;
-  padding-top: 125px;
+  height: 375px;
+  padding-top: 50px;
   width: 600px;
   text-align: center;
   vertical-align: center;
@@ -35,6 +39,7 @@ a:active { color: #fff; }
 
 #logo {
   margin: 0 auto;
+  margin-top: 75px;
   background-image: url(/assets/images/logo.png);
   width: 465px;
   height: 163px;
@@ -49,7 +54,8 @@ a:active { color: #fff; }
 }
 
 .right-block ul {
-  width: 175px;
+  margin: 0;
+  width: 200px;
   list-style-type: none;
   font-size: 30px;
   text-align: right;
@@ -59,7 +65,11 @@ a:active { color: #fff; }
   text-decoration: line-through;
 }
 
-h1, h3 { color: #49e; }
+#home {
+  text-align:right;
+  width:200px;
+  font-size: 10px;
+}
 
 .right{ text-align:right; }
 
