@@ -14,9 +14,16 @@
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
     <script type="text/javascript">
       $(document).ready(function() {
+        link_fade_speed = 10000;
         page_title = "{{ page.title }}";
+        fade_side_link = function(ptitle, fromClass, toClass, speed) {
+          if(!fromClass) fromClass = "whitelink";
+          if(!toClass) toClass = "highlight-link";
+          if(!speed) speed = link_fade_speed;
+          $("#"+ptitle).find('a').switchClass(fromClass, toClass, speed);
+        }
         if(page_title) {
-          $("#"+page_title).find('a').switchClass('whitelink','highlight-link',10000);
+          fade_side_link(page_title);
         }
       });
     </script>
