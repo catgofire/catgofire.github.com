@@ -21,9 +21,14 @@ h3, h4, h5, h6 { color: #778; }
   margin: 20px auto;
 }
 
+.content-wrapper {
+  float: left;
+/*  background-color: #0f0;*/
+}
+
 .left-block {
   float: left;
-  height: 375px;
+  min-height: 375px;
   padding-top: 50px;
   width: 600px;
 }
@@ -73,7 +78,15 @@ a:focus
   outline:0
 }
 
+a.photo img {
+  border: 2px solid #fff;
+}
+a.photo:hover img, a.photo:active img, a.photo:focus img {
+  border: 2px solid #01b4ff;
+}
+
 #footer {
+  padding-top: 10px;
   clear: both;
   width: 800px;
   text-align: right;
