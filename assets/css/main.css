@@ -78,6 +78,11 @@ a:focus
   outline:0
 }
 
+.explanation {
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+
 a.photo img {
   border: 2px solid #fff;
 }
