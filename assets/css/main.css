@@ -4,6 +4,10 @@ body {
   font-family:Verdana, Arial, sans-serif;
 }
 
+.hidden {
+  display: none;
+}
+
 a, a:hover, a:active, a:focus { text-decoration: none; }
 a { color: #fff; }
 a:hover, a:active, a:focus { color: #01b4ff; }
@@ -83,8 +87,14 @@ a:focus
   font-size: 14px;
 }
 
+.photos-line {
+  white-space: nowrap;
+}
+
 a.photo img {
   border: 2px solid #fff;
+  margin: 5px 10px 5px 0px;
+  vertical-align: top;
 }
 a.photo:hover img, a.photo:active img, a.photo:focus img {
   border: 2px solid #01b4ff;
