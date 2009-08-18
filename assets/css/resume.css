@@ -11,6 +11,15 @@ h1 {
   color: black;
 }
 
+h3 {
+  color: black;
+  margin-bottom: 5px;
+}
+
+ul {
+/*  margin-top: -15px;*/
+}
+
 .left-block a {
   color: #00f;
   font-style: normal;
@@ -22,4 +31,3 @@ h1 {
 .left-block h2 a:active {
   color: black;
 } 
-

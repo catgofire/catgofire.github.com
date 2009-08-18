@@ -1,0 +1,19 @@
+blockquote {
+  display: none;
+}
+
+.right-block {
+  display: none;
+}
+
+#footer {
+  display: none;
+}
+
+a {
+  color: black;
+}
+
+h3 {
+  margin-bottom: -1pc;
+}
