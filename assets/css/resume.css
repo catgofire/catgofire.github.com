@@ -1,0 +1,25 @@
+.left-block {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  width: 580px;
+  background-color: white;
+  color: black;
+}
+
+h1 {
+  color: black;
+}
+
+.left-block a {
+  color: #00f;
+  font-style: normal;
+}
+.left-block a:visited { color: #800080; }
+.left-block a:active { color :#e00; }
+.left-block h2 a,
+.left-block h2 a:visited,
+.left-block h2 a:active {
+  color: black;
+} 
+

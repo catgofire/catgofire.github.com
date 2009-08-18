@@ -15,9 +15,13 @@ Email: <justin@evilgen.us>
 Phone: _available upon request_  
 Snail Mail: `whois evilgen.us`
 
+* * *
+
 ## <a name="education">Education</a>
 **Carnegie Mellon University**, School of Computer Science  
 **_B.S. Computer Science_**, May 2010
+
+* * *
 
 ## <a name="work">Work Experience</a>
 
@@ -55,6 +59,8 @@ _Summer 2006_
 * Work on flight simulators for training pilots
 * Get servers to communicate and report to a single controller application
 
+* * *
+
 ## <a name="activities">Activities and Leadership</a>
 
 ### Thistle Yearbook -- _Editor-in-Chief_
@@ -74,6 +80,8 @@ _2007_
 
 * Oversee the photography aspects of the newspaper and maintain a photo staff
 * Create new, more efficient photo production flow
+
+* * *
 
 ## <a name="skills">Skills</a>
 
