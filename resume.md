@@ -5,8 +5,8 @@ title: resumé
 
 # Resumé — Justin Brown
 
-> words
-> * <a href="javascript:alert();">Print This</a>
+
+> * This Resumé is mostly printer friendly
 > * [Education](#education "Education")
 > * [Work Experience](#work "Work Experience")
 > * [Activities and Leadership](#activities "Activities and Leadership")
