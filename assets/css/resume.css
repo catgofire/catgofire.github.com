@@ -31,3 +31,8 @@ ul {
 .left-block h2 a:active {
   color: black;
 } 
+
+.only_print{
+  display:none;
+}
+

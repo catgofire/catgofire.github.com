@@ -17,3 +17,7 @@ a {
 h3 {
   margin-bottom: -1pc;
 }
+
+.only_print {
+  display:block;
+}

@@ -4,9 +4,11 @@ title: resumé
 ---
 
 # Resumé — Justin Brown
+<div class="only_print" style="margin-top:-1.7pc">
+(Printed from http://evilgen.us/resume.html)
+</div>
 
-
-> * This Resumé is mostly printer friendly
+> * available in <a href="javascript:window.print();">Print</a>
 > * [Education](#education "Education")
 > * [Work Experience](#work "Work Experience")
 > * [Activities and Leadership](#activities "Activities and Leadership")
