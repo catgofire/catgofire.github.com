@@ -21,3 +21,7 @@ h3 {
 .only_print {
   display:block;
 }
+
+.page-break {
+  page-break-before: always;
+}
