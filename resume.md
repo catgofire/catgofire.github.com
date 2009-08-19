@@ -13,6 +13,8 @@ title: resumé
 > * [Work Experience](#work "Work Experience")
 > * [Activities and Leadership](#activities "Activities and Leadership")
 > * [Skills](#skills "Skills")
+> * [Selected Courses](#courses "Selected Courses")
+> * [Interests](#interests "Interests")
 
 ## <a name="contact">Contact</a>
 Email: justin@evilgen.us  
@@ -104,6 +106,18 @@ Ruby, Python, Perl, Java, C/++
 
 ### Web Design/Development
 PHP, MySQL, Ruby on Rails, HTML/CSS/JavaScript
+
+* * *
+
+## <a name="courses">Selected Courses</a>
+
+Natural Language Processing (11-411), Artificial Intelligence (15-381), Graph Theory (21-484)
+
+* * *
+
+## <a name="interests">Interests</a>
+
+Computational linguistics, graph theory, physics (especially quantum theory and computational physics), agile development, abstraction, unsupervised learning, data mining
 
 * * *
 
