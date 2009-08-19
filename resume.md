@@ -105,7 +105,7 @@ _2007_
 Ruby, Python, Perl, Java, C/++
 
 ### Web Design/Development
-PHP, MySQL, Ruby on Rails, HTML/CSS/JavaScript
+PHP, MySQL, Ruby on Rails, HTML/CSS/JavaScript, SVN/Git
 
 * * *
 
