@@ -17,15 +17,14 @@ title: resumé
 > * [Interests](#interests "Interests")
 
 ## <a name="contact">Contact</a>
-Email: justin@evilgen.us  
-Phone: _available upon request_  
-Snail Mail: `whois evilgen.us`
+Email: catgofire@gmail.com  
+Phone: 347.748.1961  
 
 * * *
 
 ## <a name="education">Education</a>
 **Carnegie Mellon University**, School of Computer Science  
-**_B.S. Computer Science_**, May 2010
+**_B.S. Computer Science_**, incomplete
 
 * * *
 
