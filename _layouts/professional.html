@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>EvilGen!us{% if page.title != "home" %} — {{ page.title | capitalize }}{% endif %}</title>
+    <meta name="author" content="Justin Brown" />
+
+    <link rel="stylesheet" href="assets/css/blueprint/screen.css" type="text/css" media="screen, projection" />
+    <!--[if IE]><link rel="stylesheet" href="assets/css/blueprint/ie.css" type="text/css" media="screen, projection" /><![endif]-->
+    <link rel="stylesheet" href="assets/css/main.css" type="text/css" media="screen, projection" />
+		{% if page.title == "resumé"%}
+    <link rel="stylesheet" href="assets/css/resume.css" type="text/css" media="screen, projection" />
+    <link rel="stylesheet" href="assets/css/blueprint/print.css" type="text/css" media="print" />
+    <link rel="stylesheet" href="assets/css/resume_print.css" type="text/css" media="print" />
+		{% endif %}
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        link_fade_speed = 10000;
+        page_title = "{{ page.title }}";
+        fade_side_link = function(ptitle, fromClass, toClass, speed) {
+          if(!fromClass) fromClass = "whitelink";
+          if(!toClass) toClass = "highlight-link";
+          if(!speed) speed = link_fade_speed;
+          $("#"+ptitle).find('a').switchClass(fromClass, toClass, speed);
+        }
+        if(page_title) {
+          fade_side_link(page_title);
+        }
+      });
+    </script>
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="content-wrapper">
+        <div class="left-block">
+          {{ content }}
+        </div>
+
+        <div class="right-block">
+          <ul>
+            <li id="about" style="display:none;">
+              <a href="about.html">About</a>
+            </li>
+            <li id="contact">
+              <a href="mailto:catgofire@gmail.com">Contact</a>
+            </li>
+            <li id="resumé">
+              <a href="resume_sarah.html">Resum&eacute;</a>
+            </li>
+            <li id="blog" style="display:none;">
+              <a href="http://circumlo.cutio.us">Blog</a>
+            </li>
+            <li id="photos" style="display:none;">
+              <a href="photos.html">Photos</a>
+            </li>
+            <li id="friends" style="display:none;">
+              <a href="friends.html">Friends</a>
+            </li>
+            <li id="home" style="display:none;">
+              <a href="/">Home</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div id="footer">
+        Justin Brown &copy;2003&ndash;2012 (when the world ends)
+      </div>
+    </div>
+    <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-9612531-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+  </body>
+</html>
