@@ -34,8 +34,8 @@ Phone: 347.748.1961
 _Undergraduate Research Assistant_  
 _Fall 2009_
 
-* Build a system that watches political blogs and collects blog posts with their comments into a database
-* Set up a web-scraping system that can tell when its patterns are outdated and attempt to update them automatically
+* Build a system that watches political blogs and collects posts with comments into a database
+* Set up a web-scraping tool that can tell when its patterns are outdated and attempt to fix them automatically
 * The blog corpus will be used by NLP and machine learning researchers in the academic community
 
 ### B4UGO.com
