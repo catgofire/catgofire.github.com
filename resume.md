@@ -31,6 +31,14 @@ Snail Mail: `whois evilgen.us`
 
 ## <a name="work">Work Experience</a>
 
+### Noah's ARK
+_Undergraduate Research Assistant_  
+_Fall 2009_
+
+* Build a system that watches political blogs and collects blog posts with their comments into a database
+* Set up a web-scraping system that can tell when its patterns are outdated and attempt to update them automatically
+* The blog corpus will be used by NLP and machine learning researchers in the academic community
+
 ### B4UGO.com
 _Developer_  
 _Summer 2009_
