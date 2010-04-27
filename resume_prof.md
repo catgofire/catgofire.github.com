@@ -5,7 +5,7 @@ title: resumé
 
 # Resumé — Justin Brown
 <div class="only_print" style="margin-top:-1.7pc">
-(Printed from http://evilgen.us/resume_placepop.html)
+(Printed from http://evilgen.us/resume_prof.html)
 </div>
 
 > * available in <a href="javascript:window.print();">Print</a>

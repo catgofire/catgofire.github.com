@@ -6,6 +6,11 @@ blockquote {
   display: none;
 }
 
+.left-block {
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
 #footer {
   display: none;
 }
@@ -14,7 +19,11 @@ a {
   color: black;
 }
 
-h3 {
+h1 {
+  margin-top: 0px;
+  padding-top: 0px;
+}
+h3, h2 {
   margin-bottom: -1pc;
 }
 
@@ -24,4 +33,9 @@ h3 {
 
 .page-break {
   page-break-before: always;
+}
+
+hr {
+  height:0px;
+  margin:.5em 0;
 }
