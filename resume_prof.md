@@ -58,15 +58,14 @@ _Fall 2009_
 * Set up a web-scraping tool that can tell when its patterns are outdated and attempt to fix them automatically
 * The blog corpus will be used by NLP and machine learning researchers in the academic community
 
-### B4UGO.com
+<!-- ### B4UGO.com
 _Developer_  
 _Summer 2009_
 
 * Develop a Sinatra app for use as a survey before launch
 * Develop a Rails application from scratch to create an online service
 * Convert applications from Prototype/Scriptaculous to JQuery/JQuery-UI
-
-<!-- * Participate in product design meetings for a location-aware system -->
+* Participate in product design meetings for a location-aware system -->
 
 ### Spock.com
 _Developer_  
@@ -77,7 +76,7 @@ _Summer 2008_
 * Design and develop an asynchronous search widget with pagination in Rails and JavaScript
 * Refactor large portions of a Ruby on Rails application
 
-### North American Computational Linguistics Olympics
+<!-- ### North American Computational Linguistics Olympics
 _Web Designer/Developer_  
 _2007-2008_
 
@@ -90,7 +89,7 @@ _Computer Science Intern_
 _Summer 2006_
 
 * Work on flight simulators for training pilots
-* Get servers to communicate and report to a single controller application
+* Get servers to communicate and report to a single controller application -->
 
 * * *
 
@@ -139,7 +138,7 @@ Natural Language Processing (11-411), Artificial Intelligence (15-381), Graph Th
 
 ## <a name="interests">Interests</a>
 
-Computational linguistics, graph theory, physics (especially quantum theory and computational physics), agile development, abstraction, unsupervised learning, data mining
+Computational linguistics, graph theory, physics (especially quantum theory and computational physics), agile development, abstraction, unsupervised learning, data mining, social games (and where gaming is headed)
 
 * * *
 
