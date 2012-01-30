@@ -124,7 +124,7 @@ _2007_
 ## <a name="skills">Skills</a>
 
 ### Programming Languages
-Ruby, Perl, [with documentation: Java, C/++, Python, Fortran]
+Ruby, Perl, \[with documentation: Java, C/++, Python, Fortran\]
 
 ### Web Design/Development
 PHP, MySQL, Ruby on Rails, HTML/CSS/JavaScript, SVN/Git
