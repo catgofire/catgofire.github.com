@@ -30,6 +30,26 @@ Phone: 347.748.1961
 
 ## <a name="work">Work Experience</a>
 
+### Spooky Cool Labs
+_Software Engineer_  
+_2011_
+
+* Make workflow design decisions and lay the groundwork for the company's back end
+* Build an API using PHP and MySQL to serve as the back end for social games
+* Build tools to help fellow developers work more easily and efficiently
+* Set up a Unity3D "build server" with CruiseControl and Git to automate the build process
+* Participate heavily in social game design process
+
+<!-- * Set up a multi-stage Capistrano deploy -->
+
+### Leading Edge Design
+_Intern(et Specialist)_  
+_2010_
+
+* Create a high score system used by online games via an API
+* Design and develop websites for the company and individual products
+* Produce a promotional video used to secure a business opportunity in Europe
+
 ### Noah's ARK
 _Undergraduate Research Assistant_  
 _Fall 2009_
@@ -45,7 +65,8 @@ _Summer 2009_
 * Develop a Sinatra app for use as a survey before launch
 * Develop a Rails application from scratch to create an online service
 * Convert applications from Prototype/Scriptaculous to JQuery/JQuery-UI
-* Participate in product design meetings for a location-aware system
+
+<!-- * Participate in product design meetings for a location-aware system -->
 
 ### Spock.com
 _Developer_  
