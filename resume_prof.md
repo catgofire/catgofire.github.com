@@ -126,7 +126,7 @@ _2007_
 Ruby, Perl, \[with documentation: Java, C/++, Python, Fortran\]
 
 ### Web Design/Development
-PHP, MySQL, Ruby on Rails, HTML/CSS/JavaScript, SVN/Git, *nix/Apache/MySQL administration
+PHP, MySQL, Ruby on Rails, HTML/CSS/JavaScript, SVN/Git, \*nix/Apache/MySQL administration
 
 * * *
 
