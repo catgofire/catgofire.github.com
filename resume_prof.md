@@ -36,7 +36,7 @@ _2011_
 
 * Make workflow design decisions and lay the groundwork for the company's back end
 * Build an API using PHP and MySQL to serve as the back end for social games
-* Build tools to help fellow developers work more easily and efficiently
+* Build support tools (using PHP/Ruby/AJAX) to help fellow developers work more easily and efficiently
 * Set up a Unity3D "build server" with CruiseControl and Git to automate the build process
 * Participate heavily in social game design process
 
@@ -126,7 +126,7 @@ _2007_
 Ruby, Perl, \[with documentation: Java, C/++, Python, Fortran\]
 
 ### Web Design/Development
-PHP, MySQL, Ruby on Rails, HTML/CSS/JavaScript, SVN/Git
+PHP, MySQL, Ruby on Rails, HTML/CSS/JavaScript, SVN/Git, *nix/Apache/MySQL administration
 
 * * *
 
