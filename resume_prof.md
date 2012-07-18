@@ -39,6 +39,7 @@ _2011_
 * Build support tools (using PHP/Ruby/AJAX) to help fellow developers work more easily and efficiently
 * Set up a Unity3D "build server" with CruiseControl and Git to automate the build process
 * Participate heavily in social game design process
+* (Listed as an inventor on two social gaming patents.)
 
 <!-- * Set up a multi-stage Capistrano deploy -->
 
