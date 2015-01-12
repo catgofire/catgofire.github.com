@@ -3,7 +3,7 @@ layout: professional
 title: resumé
 ---
 
-# Resumé — Justin Brown
+# Resumé --- Justin Brown
 <div class="only_print" style="margin-top:-1.7pc">
 (Printed from http://evilgen.us/resume_prof.html)
 </div>
@@ -32,16 +32,16 @@ Phone: 347.748.1961
 
 ### Capacitr
 _Lead Developer_  
-_2013 — 2015_
+_2013 -- 2015_
 
 * Build websites (Wordpress, Shopify, Magento, raw HTML) based on provided mockups
-* Act as a virtual handyman –— fix any website problem a client has (styling, plugins, database/connectivity)
+* Act as a virtual handyman --- fix any website problem a client has (styling, plugins, database/connectivity)
 * Maintain websites and continue to enhance them over time based on client feedback
 * Create custom widgets and plugins (mostly Wordpress) when a client has specific needs
 
 ### Mutual Good LLC
 _Lead Software Engineer_  
-_2012 – 2013_
+_2012 -- 2013_
 
 * Build a web application in Laravel from scratch
 * Design front-end and back-end components for online organizers
@@ -51,7 +51,7 @@ _2012 – 2013_
 
 ### Spooky Cool Labs
 _Software Engineer_  
-_2011 – 2012_
+_2011 -- 2012_
 
 * Make workflow design decisions and lay the groundwork for the company's back end
 * Build an API using PHP and MySQL to serve as the back end for social games
