@@ -30,16 +30,35 @@ Phone: 347.748.1961
 
 ## <a name="work">Work Experience</a>
 
+### Capacitr
+_Lead Developer_  
+_2013 — 2015_
+
+* Build websites (Wordpress, Shopify, Magento, raw HTML) based on provided mockups
+* Act as a virtual handyman –— fix any website problem a client has (styling, plugins, database/connectivity)
+* Maintain websites and continue to enhance them over time based on client feedback
+* Create custom widgets and plugins (mostly Wordpress) when a client has specific needs
+
+### Mutual Good LLC
+_Lead Software Engineer_  
+_2012 – 2013_
+
+* Build a web application in Laravel from scratch
+* Design front-end and back-end components for online organizers
+* Work closely with inventor to ensure the vision becomes a reality
+* Iterate often on design and function to accomodate changing opinions/needs
+* Set up and maintain servers on multiple third-party hosting providers
+
 ### Spooky Cool Labs
 _Software Engineer_  
-_2011_
+_2011 – 2012_
 
 * Make workflow design decisions and lay the groundwork for the company's back end
 * Build an API using PHP and MySQL to serve as the back end for social games
 * Build support tools (using PHP/Ruby/AJAX) to help fellow developers work more easily and efficiently
 * Set up a Unity3D "build server" with CruiseControl and Git to automate the build process
 * Participate heavily in social game design process
-* (Listed as an inventor on two social gaming patents.)
+* [Listed as an inventor on two social gaming patents]
 
 <!-- * Set up a multi-stage Capistrano deploy -->
 
