@@ -117,14 +117,12 @@ _Summer 2006_
 
 ### Thistle Yearbook
 _Editor-in-Chief_  
-_Fall 2008_
+_Fall 2008_  
+_Managing Editor/Systems Manager_  
+_2007-2008_
 
 <!--* Oversee the production of the yearbook
 * Represent the organization -->
-
-### Thistle Yearbook
-_Managing Editor/Systems Manager_  
-_2007-2008_
 
 <!--* Assist the Editor-in-Chief, manage the editors and their staffs
 * Administer systems (file server, website/server, production computers) -->
