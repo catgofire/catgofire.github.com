@@ -119,22 +119,22 @@ _Summer 2006_
 _Editor-in-Chief_  
 _Fall 2008_
 
-* Oversee the production of the yearbook
-* Represent the organization
+<!--* Oversee the production of the yearbook
+* Represent the organization -->
 
 ### Thistle Yearbook
 _Managing Editor/Systems Manager_  
 _2007-2008_
 
-* Assist the Editor-in-Chief, manage the editors and their staffs
-* Administer systems (file server, website/server, production computers)
+<!--* Assist the Editor-in-Chief, manage the editors and their staffs
+* Administer systems (file server, website/server, production computers) -->
 
 ### The Tartan
 _Photo Editor_  
 _2007_
 
-* Oversee the photography aspects of the newspaper and maintain a photo staff
-* Create new, more efficient photo production flow
+<!--* Oversee the photography aspects of the newspaper and maintain a photo staff
+* Create new, more efficient photo production flow -->
 
 * * *
 
