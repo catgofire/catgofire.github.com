@@ -32,7 +32,7 @@ Phone: 347.748.1961
 
 ### Capacitr
 _Lead Developer_  
-_2013 -- 2015_
+_2013 -- 2016_
 
 * Build websites (Wordpress, Shopify, Magento, raw HTML) based on provided mockups
 * Act as a virtual handyman --- fix any website problem a client has (styling, plugins, database/connectivity)
