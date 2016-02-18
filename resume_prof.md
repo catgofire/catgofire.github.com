@@ -34,10 +34,11 @@ Phone: 347.748.1961
 _Lead Developer_  
 _2013 -- 2016_
 
-* Build websites (Wordpress, Shopify, Magento, raw HTML) based on provided mockups
+* Build responsive websites (Wordpress, Shopify, Magento, raw HTML) based on provided mockups
 * Act as a virtual handyman --- fix any website problem a client has (styling, plugins, database/connectivity)
 * Maintain websites and continue to enhance them over time based on client feedback
 * Create custom widgets and plugins (mostly Wordpress) when a client has specific needs
+* Tech used: Bootstrap, Foundation, JavaScript (Aurelia, Node.js, Angular), PHP, Ruby, creating and using REST APIs
 
 ### Mutual Good LLC
 _Lead Software Engineer_  
