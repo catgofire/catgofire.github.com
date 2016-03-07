@@ -141,11 +141,9 @@ _2007_
 
 ## <a name="skills">Skills</a>
 
-### Programming Languages
-Ruby, Perl, \[with documentation: Java, C/++, Python, Fortran\]
+PHP, Ruby, JavaScript, git, Node.js, Bootstrap, Foundation, MySQL, REST APIs, WordPress, *nix/Apache/server administration
 
-### Web Design/Development
-PHP, MySQL, Ruby on Rails, HTML/CSS/JavaScript, SVN/Git, \*nix/Apache/MySQL administration
+*I love learning new things, and do it quickly :)*
 
 * * *
 
@@ -157,7 +155,7 @@ Natural Language Processing (11-411), Artificial Intelligence (15-381), Graph Th
 
 ## <a name="interests">Interests</a>
 
-Computational linguistics, graph theory, physics (especially quantum theory and computational physics), agile development, abstraction, unsupervised learning, data mining, social games (and where gaming is headed)
+Computational linguistics, graph theory, physics (especially quantum theory and computational physics), agile development, abstraction, unsupervised learning, data mining, social games (and where gaming is headed), photography
 
 * * *
 
