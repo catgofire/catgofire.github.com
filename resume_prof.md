@@ -156,7 +156,3 @@ Natural Language Processing (11-411), Artificial Intelligence (15-381), Graph Th
 ## <a name="interests">Interests</a>
 
 Computational linguistics, graph theory, physics (especially quantum theory and computational physics), agile development, abstraction, unsupervised learning, data mining, social games (and where gaming is headed), photography
-
-* * *
-
-_**references available upon request**_
