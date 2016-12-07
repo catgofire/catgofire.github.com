@@ -17,7 +17,7 @@ title: resumé
 > * [Interests](#interests "Interests")
 
 ## <a name="contact">Contact</a>
-Email: catgofire@gmail.com  
+Email: justin.lettenmair@gmail.com  
 Phone: 347.748.1961  
 
 * * *
