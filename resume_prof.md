@@ -47,7 +47,7 @@ _2012 -- 2013_
 * Build a web application in Laravel from scratch
 * Design front-end and back-end components for online organizers
 * Work closely with inventor to ensure the vision becomes a reality
-* Iterate often on design and function to accomodate changing opinions/needs
+* Iterate often on design and function to accommodate changing opinions/needs
 * Set up and maintain servers on multiple third-party hosting providers
 
 ### Spooky Cool Labs
